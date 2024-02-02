@@ -1,0 +1,23 @@
+
+html {
+    overscroll-behavior: none;
+}
+
+body {
+    background-color: #878787;
+}
+
+.white-text {
+    font-family: "Inter";
+    color: white;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.bkg-video {
+    width: 100%;
+    min-height: 100%;
+    background-position: center;
+}
