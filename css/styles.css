@@ -13,11 +13,13 @@ body {
 }
 
 .navbar {
-    background-color: transparent;
+    text-align: center;
 }
 
 .bkg-video {
-    width: 100%;
-    min-height: 100%;
+    max-width: 100%;
+    position: absolute;
+    top:0;
     background-position: center;
+    z-index: -1;
 }
