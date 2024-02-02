@@ -1,0 +1,25 @@
+
+html {
+    overscroll-behavior: none;
+}
+
+body {
+    background-color: #878787;
+}
+
+.white-text {
+    font-family: "Inter";
+    color: white;
+}
+
+.navbar {
+    text-align: center;
+}
+
+.bkg-video {
+    max-width: 100%;
+    position: absolute;
+    top:0;
+    background-position: center;
+    z-index: -1;
+}
