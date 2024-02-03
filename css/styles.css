@@ -9,7 +9,11 @@ body {
 
 .white-text {
     font-family: "Inter";
-    color: white;
+    color: lightgray;
+    text-shadow: -0.5px 0.5px 4px #282828,
+        -1px 1px 0px #282828,
+        -1.5px 1.5px 0px #282828,
+        -2px 2px 0px #282828;
 }
 
 .navbar {
